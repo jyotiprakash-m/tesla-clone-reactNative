@@ -3,9 +3,9 @@
 ## Project Setup
 
 ```
-git clone https://github.com/jyotiprakash-m/tesla-clone-reactNative.git 
-cd tesla-clone-reactNative 
-npm start or yarn start
+$ git clone https://github.com/jyotiprakash-m/tesla-clone-reactNative.git 
+$ cd tesla-clone-reactNative 
+$ npm start or yarn start
 ```
 
 ## Project demo
