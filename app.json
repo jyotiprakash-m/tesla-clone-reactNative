@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "DoneWithIt",
-    "slug": "DoneWithIt",
+    "name": "Tesla-clone",
+    "slug": "tesla-clone",
     "platforms": [
       "ios",
       "android",
@@ -33,6 +33,6 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "A market place for selling the products"
+    "description": "Let`s build your future bright"
   }
 }
