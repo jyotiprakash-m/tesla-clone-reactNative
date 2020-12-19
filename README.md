@@ -5,8 +5,8 @@
 ```
 git clone https://github.com/jyotiprakash-m/tesla-clone-reactNative.git 
 cd tesla-clone-reactNative 
-npm start or yarn start`
-``
+npm start or yarn start
+```
 
 ## Project demo
 
